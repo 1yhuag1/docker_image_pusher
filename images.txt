@@ -4,7 +4,8 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 linuxserver/nextcloud:latest
-linuxserver/传输：最新的rustdesk/rustdesk-服务器：最新的
+linuxserver/transmission:latest
+rustdesk/rustdesk-server:latest
 filebrowser/filebrowser:latest
 pengzhile/pandora-next:latest
 portainer/portainer-ee:latest
