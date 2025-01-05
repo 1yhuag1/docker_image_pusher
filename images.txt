@@ -14,3 +14,4 @@ bitwardenrs/server:latest
 linuxserver/resilio-sync:latest
 jericx/syncclipboard-server:latest
 doknow/crypt-le:latest
+syncthing/syncthing
