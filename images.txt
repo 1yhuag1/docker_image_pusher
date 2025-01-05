@@ -13,3 +13,4 @@ ugeek/webdav:amd64
 bitwardenrs/server:latest
 linuxserver/resilio-sync:latest
 jericx/syncclipboard-server:latest
+doknow/crypt-le:latest
