@@ -17,3 +17,4 @@ doknow/crypt-le:latest
 syncthing/syncthing
 jlesage/freefilesync
 likun7981/hlink:latest
+jeessy/ddns-go
