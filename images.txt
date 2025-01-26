@@ -18,3 +18,4 @@ syncthing/syncthing
 jlesage/freefilesync
 likun7981/hlink:latest
 jeessy/ddns-go
+portainer/portainer-ee:latest
